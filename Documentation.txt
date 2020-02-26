@@ -1,0 +1,4 @@
+Documentation
+
+A script is written to obtain search console results using google's API. Another scrirpt is written to return 
+and store the top keywords associated with a page to a csv file.
